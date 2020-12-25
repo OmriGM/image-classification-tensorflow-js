@@ -1,0 +1,14 @@
+.tags-container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 60%;
+}
+
+.tag {
+  margin: 5px;
+  padding: 5px 14px;
+  border-radius: 15px;
+  font-size: 14px;
+  text-transform: capitalize;
+  
+}
